@@ -1,0 +1,11 @@
+version: '3'
+services:
+  cronjob:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    volumes:
+      - ./download:/app/download
+
+    

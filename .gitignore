@@ -51,6 +51,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 .DS_Store
+.vscode
 
 # Translations
 *.mo
@@ -128,3 +129,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+downloads
+log
+/downloads
+/log
+config.dev.json

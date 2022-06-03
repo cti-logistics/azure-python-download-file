@@ -1,10 +1,10 @@
 {
     "share_point": 
         {
-            "username": "{email}",
-            "password": "{password}",
-            "url": "https://{domain}.sharepoint.com",
-            "site": "https://{domain}.sharepoint.com/sites/{pagename}/",
-            "folder": "Shared Documents/Upload"
+            "username": "{EMAIL}",
+            "password": "{PASSWORD}",
+            "url": "https://{DOMAIN}.sharepoint.com",
+            "site": "https://{DOMAIN}.sharepoint.com/sites/{SIDE_NAME}/",
+            "folder": "Shared Documents/{FOLDER}"
         }
 }
